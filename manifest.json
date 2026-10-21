@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "scikit-image",
+  "repo": "renaissance2026-skimage",
+  "versions": [
+    {
+      "commit": "190a1229823acc915ca52e1d269ba5d60399f2d2",
+      "parsed_at": "2026-10-21T03:06:33.189558+00:00",
+      "filetree": "filetree/190a1229823acc915ca52e1d269ba5d60399f2d2.nq.gz",
+      "blobs": [
+        "blob/45ddbf026348b6c58900fd0ec3caee5376bdbf5b.nq.gz",
+        "blob/aa6f990475fa7c6bfbee6984fa98d85dc15ba496.nq.gz",
+        "blob/5f8afd05ceab6f111b21659a22861d89f7092beb.nq.gz",
+        "blob/6be944d71e7760ba64cb1ce50ed66657b719c533.nq.gz",
+        "blob/951b00a00231d004f4171b3d4dd9cb42cb1975b1.nq.gz",
+        "blob/d44df71435e5ff5792f1ba868230e909631cab3c.nq.gz",
+        "blob/41eb7b24767fa880bdf8ffa45c421432402ce4ff.nq.gz",
+        "blob/5a4146cdd8e53aaa9edeba2b2152b458858694a1.nq.gz",
+        "blob/5aeeebb992337caf20fb74784e93ca59eff0c07a.nq.gz",
+        "blob/ed39071e726e3bf6c78aed5886abd1ee0c5db2ac.nq.gz",
+        "blob/f94fae5d102525abc8764d3678dc98eccc8360ba.nq.gz",
+        "blob/d2c129853d771794c0c6078b20b10d84287c146d.nq.gz",
+        "blob/53246580887f7e2b26d377f96ec9c9fbba0f62a0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
