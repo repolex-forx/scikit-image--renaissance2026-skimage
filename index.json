@@ -1,0 +1,11 @@
+{
+  "org": "scikit-image",
+  "repo": "renaissance2026-skimage",
+  "versions": [
+    {
+      "commit": "190a1229823acc915ca52e1d269ba5d60399f2d2",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:09:46.290341+00:00"
+    }
+  ]
+}
