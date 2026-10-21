@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-image/renaissance2026-skimage/commit/190a1229823acc915ca52e1d269ba5d60399f2d2",
       "git:hexsha": "190a1229823acc915ca52e1d269ba5d60399f2d2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:09:46.289915+00:00"
     }
   ]
 }
